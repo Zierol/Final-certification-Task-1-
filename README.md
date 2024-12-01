@@ -3,6 +3,7 @@ Task 1
 ![image](https://github.com/user-attachments/assets/5d19c0d1-6c57-489d-a493-f24fd830722a)
 
 *Docker image*
+link: 
 docker pull zierolka/finaltask1:latest
 
 ![image](https://github.com/user-attachments/assets/ca13d98f-e50c-4085-b1ff-ec967778db58)
