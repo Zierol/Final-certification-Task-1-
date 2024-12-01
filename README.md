@@ -2,6 +2,11 @@
 Task 1
 ![image](https://github.com/user-attachments/assets/5d19c0d1-6c57-489d-a493-f24fd830722a)
 
+*Docker image*
+docker pull zierolka/finaltask1:latest
+
+![image](https://github.com/user-attachments/assets/ca13d98f-e50c-4085-b1ff-ec967778db58)
+
 To work correctly with the container, you can specify the name argument
 
   *docker run --rm python-file-analyzer "Name"*
